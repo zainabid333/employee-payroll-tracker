@@ -47,4 +47,4 @@ This script is designed to manage employee data, calculate the average salary, s
 Adds an event listener to the "Add Employees" button to trigger the collectEmployees() function when clicked.
 
 ## Screenshot
-![Payroll Tracker](./images/Array%20Display.png)
+![Payroll Tracker](./assets/images/Array%20Display.png)
